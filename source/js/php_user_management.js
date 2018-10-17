@@ -1,4 +1,4 @@
-// Custom scripts
+// Custom scripts - shameem
 $(document).ready(function () {
      
     // MetsiMenu Navigation
