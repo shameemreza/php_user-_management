@@ -15,7 +15,7 @@ class Adminfunctions {
     }
 
     /* *******************************************************************
-     * checkLevel - Returns the userlevel - used by displayStatus function
+     * checkLevel - Returns the userlevel - used by displayStatus function - Shameem
      * *******************************************************************
      */
     function checkLevel($username) {
