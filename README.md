@@ -29,3 +29,7 @@ I also tried to follow 100% coding standard into this script. THough it can be u
 * Customizable Admin Skin which uses Bootstrap CSS
 * Enable or Disable multiple login from the same account.
 * ANd possibly much more.
+
+# Dasheboard
+
+![php user management dashebaord](demo.png)
